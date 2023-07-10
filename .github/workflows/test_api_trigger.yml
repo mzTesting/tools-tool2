@@ -37,7 +37,7 @@ jobs:
 
             # Request timeout (millisec)
             # Default: 1000
-            timeout: 100000000000
+            timeout: 600000
             
             log-response: true
             
